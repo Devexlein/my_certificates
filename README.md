@@ -8,6 +8,8 @@ HTMLAcademy:
 
 Сертификат об успешном прохождении курса «JavaScript. Профессиональная разработка веб-интерфейсов» и защите выпускного проекта, 2026 - certificate_HTMLAcademy_JavaScript. Professional Development of Web Interfaces_2026.pdf
 
+Сертификат об участии в курсе «Профессия Фронтенд-разработчик», 2026 - certificate_HTMLAcademy_Profession Front-end Developer_2026.pdf
+
 
 WAYUP: 
 
